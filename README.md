@@ -1,5 +1,5 @@
 ## Olá! Eu sou Lucas Michelini 🖐️
-
+Tenho 18 anos e estou em busca de um estagio desafiador!!
 
 [![Blog](https://img.shields.io/website?label=lucasmicheliniportifolio.com&style=for-the-badge&url=http://lucasmicheliniportifolio.atwebpages.com/)](http://lucasmicheliniportifolio.atwebpages.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucasmigui)
